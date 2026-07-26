@@ -1,6 +1,6 @@
 # Design DNA Extractor — Chrome Extension
 
-Extract any website's complete design system into an AI-ready `SKILL.md` file. Give it to your agent to recreate the design for your own business.
+Extract any website's complete design system into an AI-ready `.md` file. Give it to your agent to recreate the design for your own business.
 
 ## What it extracts
 
